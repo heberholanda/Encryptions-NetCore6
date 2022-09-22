@@ -1,5 +1,8 @@
-# Encryptions-NetCore6
+# Encryptions Examples
 
+- MD5
+- SHA
+- AES
 
 ## Console Run...
 ```
